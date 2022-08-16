@@ -1,8 +1,11 @@
 <center><h1>Fullstack template: NestJS + ReactJS</h1></center>
 
 ## Description
-This is a template for **NestJS** for back-end and **ReactJS** for front-end
-also uses **ReactJS Router** for front-end navigation
+This is a template for 
+- **NestJS** for back-end
+- **ReactJS** for front-end
+  - **ReactJS Router** for front-end navigation
+- uses CSS Framework using **TailwindCSS** 
 
 ## Installation
 
