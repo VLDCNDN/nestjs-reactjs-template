@@ -3,7 +3,7 @@ import { CatsService } from './cats.service';
 import { CreateCatDto } from './dto/create-cat.dto';
 import { Cat } from './interfaces/cat.interface';
 
-@Controller('api/cats')
+@Controller('cats')
 export class CatsController {
   constructor(private catsService: CatsService) {}
 
