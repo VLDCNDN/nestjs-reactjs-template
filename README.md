@@ -1,7 +1,7 @@
 <center><h1>Fullstack template: NestJS + ReactJS</h1></center>
 
 ## Description
-This is a template for 
+This is a template for fullstack using nestjs
 - **NestJS** for back-end
 - **ReactJS** for front-end
   - **ReactJS Router** for front-end navigation
